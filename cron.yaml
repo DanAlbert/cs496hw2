@@ -1,0 +1,4 @@
+cron:
+- description: clean up old photos
+  url: /university/clean
+  schedule: every minute
